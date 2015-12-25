@@ -1,5 +1,5 @@
 # Pro Episerver Commerce development
-This is a book about Episerver Commerce development. Episerver Commerce (Formerly known as EPiServer Commerce) is an e-Commerce platform built on .NET, which provide powerful and conprehensive features for building e-Commerce solution. But it's still a long way to create a complete solution. How to harness the power, how to workaround the weakness, how to adapt to real-world requirements. This book attempts to be a definitive guide for developers who want to master Episerver Commerce to build world-class e-Commerce solution.
+This is a book about Episerver Commerce development. Episerver Commerce (Formerly known as EPiServer Commerce) is an e-Commerce platform built on .NET, which provide powerful and conprehensive features for building e-Commerce solution. But it's still a long way to make it works: How to harness the power, how to workaround the weaknesses, how to adapt to real-world requirements. This book attempts to be a definitive guide for developers who want to master Episerver Commerce to build world-class e-Commerce solution.
 
 This is a work-in-progress. I'll try to update it as frequent as I can, but writing a book, especially a book about a big, complicated framework is no easy task. Your contributions are warmly welcome.
 
