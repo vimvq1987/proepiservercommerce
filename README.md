@@ -3,6 +3,18 @@ This is a book about Episerver Commerce development. Episerver Commerce (Formerl
 
 This is a work-in-progress. I'll try to update it as frequent as I can, but writing a book, especially a book about a big, complicated framework is no easy task. Your contributions are warmly welcome.
 
+# Index of contents
+## 1. Chapter 1: An overview
+## 2. Chapter 2: The catalog system
+### 2.1 Catalog system structure
+### 2.2 Metadata system
+### 2.3 The content way
+## 3. Chapter 3: The order system
+### 3.1 Working with cart
+### 3.2 Extending the order
+
+## 4. Chapter 4: The legacy lives on
+### 4.1 Extending Commerce Manager
 
 ## About the author
 One of the dedicated Episerver Commerce developers from day 1, I am both CMS Certified Developer and Commerce Certified Developer. I am also an Oracle on Episerver World forums, and known for helping people solving their Commerce problems.
