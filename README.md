@@ -22,4 +22,5 @@ You can reach my page at http://world.episerver.com/System/Users-and-profiles/Co
 
 Want to buy me a coffee? You're welcome
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=vimvq1987%40gmail%2ecom&lc=US&item_name=Pro%20Episerver%20Commerce&item_number=vimvq1987&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="[paypal]" /></a>
-From Sweden, Swish me a coffee at 072 295 6228
+
+From Sweden? Swish me a coffee at 072 295 6228
