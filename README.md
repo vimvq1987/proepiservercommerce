@@ -3,6 +3,17 @@ This is a book about Episerver Commerce development. Episerver Commerce (Formerl
 
 This is a work-in-progress. I'll try to update it as frequent as I can, but writing a book, especially a book about a big, complicated framework is no easy task. Your contributions are warmly welcome.
 
+## Who is this book for
+I will not try to make this a cook book (although I'll cover some detail implementations when I think they are needed). If you want to be up to speed, I would recommend taking one of Episerver Commerce courses (http://www.episerver.com/Training/) - there are some of very good trainers there. This book aims to be an view from inside Commerce, how things work, how can it be more efficient,etc. Some experience with C#/SQL Server are needed. Experience with Episerver CMS or Commerce is a big plus, but not required.  If you like in-depth books, this is for you.
+
+## Thanks.
+I would like to thank:
+My team at Episerver, for the help and support, and good laughs.
+
+My boss Magnus Stråle, for the inspiration and encouragement.
+
+My wife Huong, for taking care of everything else.
+
 ## Index of contents
 ### 1. Chapter 1: An overview
 ### 2. Chapter 2: The catalog system
