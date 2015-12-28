@@ -9,7 +9,9 @@ I will not try to make this a cook book (although I'll cover some detail impleme
 ## Thanks.
 I would like to thank:
 My team at Episerver, for the help and support, and good laughs.
+
 My boss Magnus Stråle, for the inspiration and encouragement.
+
 My wife Huong, for taking care of everything else.
 
 ## Index of contents
