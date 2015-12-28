@@ -24,7 +24,7 @@ You can reach my page at http://world.episerver.com/System/Users-and-profiles/Co
 This is my personal project. While my bosses support me in this project, it has no official relations with Episerver. Episerver neither requests nor pays me for writing this. The opinions mentioned in this book are mine only, it does not represent the view of my employer of Episerver products in general and Episerver Commerce in particular.
 
 ###Donations
-Writing a book is not an easy task. I'll will try best doing this for free, but you're welcome to buy me a coffe :)
+Writing a book is not an easy task. I'll will try best doing this for free, but you're welcome to buy me a coffee :)
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=vimvq1987%40gmail%2ecom&lc=US&item_name=Pro%20Episerver%20Commerce&item_number=vimvq1987&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="[paypal]" /></a>
 
 From Sweden? Swish me a coffee at 072 295 6228
