@@ -21,7 +21,7 @@ One of the dedicated Episerver Commerce developers from day 1, I am both CMS Cer
 You can reach my page at http://world.episerver.com/System/Users-and-profiles/Community-Profile-Card/?userid=9b7dad33-b57b-e011-a4b8-0018717a8c82 or my personal email at vimvq1987@gmail.com
 
 ###Disclaimer
-This is my personal project. While my bosses support me in this project, it has no official relations with Episerver. The opinions mentioned in this book are mine only, it does not represent the view of my employer of Episerver products in general and Episerver Commerce in particular.
+This is my personal project. While my bosses support me in this project, it has no official relations with Episerver. Episerver neither requests nor pays me for writing this. The opinions mentioned in this book are mine only, it does not represent the view of my employer of Episerver products in general and Episerver Commerce in particular.
 
 ###Donations
 Writing a book is not an easy task. I'll will try best doing this for free, but you're welcome to buy me a coffe :)
