@@ -7,7 +7,7 @@ There are two API:s system in Episerver Commerce, the old one, which built aroun
 API:s based on the CMS content provider system - IContentRepository. The latter uses the former internally, so you might ask why not use the ICatalogSystem directly,
 but there are reasons to prefer the content way instead.
 
-#ReferenceConverter - the brigde of two system.
+#ReferenceConverter - the brigde of two systems.
 One of the biggest features in Episerver CMS is its content provider system, which allow you to plug your own content provider to the system. 
 So anything can be considered content, and can be manipulated with one unified API:s. However, to do that, you have to solve the first issue - the identity.
 
