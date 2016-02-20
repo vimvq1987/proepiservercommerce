@@ -20,7 +20,7 @@ My wife Huong, for taking care of everything else.
 #### 2.1 Catalog system structure
 #### 2.2 Metadata system
 #### 2.3 The content way
-### 3. Chapter 2: The order system
+### 3. [Chapter 2: The order system] (02OrderSystem.md)
 #### 3.1 Working with cart
 #### 3.2 Extending the order
 
