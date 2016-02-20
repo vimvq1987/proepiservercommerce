@@ -15,6 +15,7 @@ However, I would recommmend you to start with [Episerver Quicksilver site] (http
 
 ## Thanks.
 I would like to thank:
+
 My team at Episerver, for the help and support, and good laughs.
 
 My boss Magnus Stråle, for the inspiration and encouragement.
