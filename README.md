@@ -1,10 +1,17 @@
 # Pro Episerver Commerce development
 This is a book about Episerver Commerce development. Episerver Commerce (Formerly known as EPiServer Commerce) is an e-Commerce platform built on .NET, which provide powerful and conprehensive features for building e-Commerce solution. But it's still a long way to make it works: How to harness the power, how to workaround the weaknesses, how to adapt to real-world requirements. This book attempts to be a definitive guide for developers who want to master Episerver Commerce to build world-class e-Commerce solution.
 
-This is a work-in-progress. I'll try to update it as frequent as I can, but writing a book, especially a book about a big, complicated framework is no easy task. Your contributions are warmly welcome.
+This is a work-in-progress. I'll try to update it as frequent as I can, but writing a book, especially a book about a big, complicated framework is no easy task, especially when English is not my native tounge. Spot any typos? Grammar mistakes? Code which does not compile or run? Have some sections you want to add? Feel free to fix it and create a pull request to correct - your contributions are warmly welcome.
 
 ## Who is this book for
+
 I will not try to make this a cook book (although I'll cover some detail implementations when I think they are needed). If you want to be up to speed, I would recommend taking one of Episerver Commerce courses (http://www.episerver.com/Training/) - there are some of very good trainers there. This book aims to be an view from inside Commerce, how things work, how can it be more efficient,etc. Some experience with C#/SQL Server are needed. Experience with Episerver CMS or Commerce is a big plus, but not required.  If you like in-depth books, this is for you.
+
+## How to start:
+
+Episerver supports you to create a website from scratch with a [Visual Studio extension] (https://visualstudiogallery.msdn.microsoft.com/4ad95160-e72f-4355-b53e-0994d2958d3e). This actually create a CMS site, and you can simply install Episerver.Commerce nuget package to it to make it a Episerver Commerce site. More detailed steps can be found [here] (http://world.episerver.com/digital-experience-cloud/deploying/creating-a-new-commerce-site-and-deploying/).
+
+However, I would recommmend you to start with [Episerver Quicksilver site] (https://github.com/episerver/Quicksilver). Clone the repository, build it and run the set up command. Simple as that.
 
 ## Thanks.
 I would like to thank:
