@@ -9,8 +9,8 @@ Order system, as same as the catalog system, is based on the MetaDataPlus MetaCl
 attributes to match with your business need. By default, it can be seen as even more complicated than the catalog system. With Catalog system, you only
 have two base classes (CatalogEntry and CatalogNode, you can consider CatalogEntryEx and CatalogNodeEx are default classes, but they are rarely used), 
 but for the order system, it's quite many: 
-Here's the list of default metaclasses from the default installation:
-
+Here's the list of default order metaclasses from the default installation:
+![Default order metaclasses](https://github.com/vimvq1987/proepiservercommerce/blob/master/02DefaultOrderMetaclasses.PNG "From default installation")
 
 ##OrderGroup - the core of anything.
 
