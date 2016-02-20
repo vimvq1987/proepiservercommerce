@@ -15,16 +15,16 @@ My boss Magnus Stråle, for the inspiration and encouragement.
 My wife Huong, for taking care of everything else.
 
 ## Index of contents
-### 1. Chapter 1: An overview
-### 2. Chapter 2: The catalog system
+### 1. [Chapter 0: An overview] (Overview.md)
+### 2. [Chapter 1: The catalog system] (01CatalogSystem.md)
 #### 2.1 Catalog system structure
 #### 2.2 Metadata system
 #### 2.3 The content way
-### 3. Chapter 3: The order system
+### 3. Chapter 2: The order system
 #### 3.1 Working with cart
 #### 3.2 Extending the order
 
-### 4. Chapter 4: The legacy lives on
+### 4. Chapter 3: The legacy lives on
 #### 4.1 Extending Commerce Manager
 
 ## About the author
