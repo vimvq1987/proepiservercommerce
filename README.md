@@ -31,7 +31,7 @@ My wife Huong, for taking care of everything else.
 #### 3.1 Working with cart
 #### 3.2 Extending the order
 
-### 4. Chapter 3: The legacy lives on
+### 4. [Chapter 3: The legacy lives on] (03TheLegacy.md)
 #### 4.1 Extending Commerce Manager
 
 ## About the author
