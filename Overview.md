@@ -1,4 +1,4 @@
-# Chapter 1: A view from 10.000 feet
+# Chapter 0: A view from 10.000 feet
 
 *(Episerver was formerly known as EPiServer AB, but follow the merge with Ektron in early 2015, recently it was rebanded to Episerver (without 
 the capitalized P and S. Throughout this book, we will always call the company as Episerver for consistency, even for the dates before the rebanding).)*
@@ -33,7 +33,7 @@ The biggest changes in Commerce 9 were the re-architect of Catalog system storag
 
 Commerce 9 is not the final product. The improvements are continously made. The focus after Commerce 9, is to complete the new promotion system, which has been in BETA mode for quite some times. As mentioned above, the sematic version Episerver follows does not allow to introduce new breaking changes without a major version. However, to make the best-of-bread API:s for the new promotion system, which has been rewritten entirely from scratch, it takes try-and-error steps. It's hard to make it right the first time. So the new API:s are marked with a BETA tag (it's just simply a comment of the class), saying it might not stable enough to use in production. Then it can be changed when it needs to. (Note that, the API:s itself might be unstable, it does not affect the stablization of the sytem at all. If you don't use the new API:s, it will not affect you one bit). The Commerce team is working hard to get their API:s stablized and the BETA tags removed, some times later this year. 2016
 
-Guess what will comes next?
+Guess what will come in next version of Episerver Commerce?
 
 
 
